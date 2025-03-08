@@ -40,3 +40,11 @@ The ETL process is implemented using Python and Pandas, allowing us to:
 Extract raw Uber data from the CSV file.
 Transform and preprocess the dataset into structured tables.
 Load the cleaned data into a new file (processed_uber_data.csv) for further use.
+
+# OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/53e19036-5c23-4356-81c8-5a0aa9e21345)
+
+![Image](https://github.com/user-attachments/assets/72515235-e4c8-4c0a-afde-160e01f10c82)
+
+
