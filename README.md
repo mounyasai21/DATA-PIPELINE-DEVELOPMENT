@@ -1,12 +1,4 @@
-## DATA-PIPELINE-DEVELOPMENT
-## COMPANY : CODETECH IT SOLUTIONS
-## NAME : CHIDURALA MOUNYA SAI
-## INTERN ID : CT08OPZ
-## DOMAIN : DATA SCIENCE
-## DURATION : 4 WEEKS
-## MENTOR : NEELA SANTOSH
-
-## PROJECT INFORMATION:
+## Project Information:
 In this project, we focus on analyzing Uber trip data by implementing an ETL (Extract, Transform, Load) pipeline. The goal is to clean, transform, and structure the raw Uber dataset into an optimized format that allows for efficient querying and analysis.
 
 ## What is the Purpose of this Task?
@@ -35,6 +27,7 @@ Rate Code Dimension – Maps rate codes to trip categories.
 Pickup & Dropoff Location Dimensions – Stores longitude and latitude values separately.
 Payment Type Dimension – Categorizes different payment methods.
 Fact Table – Links all dimension tables and stores key transactional details such as fare amount, tip, and total cost.
+
 5️⃣ ETL Pipeline Implementation
 The ETL process is implemented using Python and Pandas, allowing us to:
 
